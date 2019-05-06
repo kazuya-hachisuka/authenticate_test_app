@@ -1,0 +1,15 @@
+current directory: /Users/kazuyahachisuka/authenticate_test/authenticate_test/vendor/bundle/gems/bindex-0.7.0/ext/skiptrace
+/Users/kazuyahachisuka/.rbenv/versions/2.6.2/bin/ruby -I /Users/kazuyahachisuka/.rbenv/versions/2.6.2/lib/ruby/2.6.0 -r ./siteconf20190506-71420-1yxtoq5.rb extconf.rb
+creating Makefile
+
+current directory: /Users/kazuyahachisuka/authenticate_test/authenticate_test/vendor/bundle/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/kazuyahachisuka/authenticate_test/authenticate_test/vendor/bundle/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/cruby.bundle
+
+current directory: /Users/kazuyahachisuka/authenticate_test/authenticate_test/vendor/bundle/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20190506-71420-x8ndxd/skiptrace
